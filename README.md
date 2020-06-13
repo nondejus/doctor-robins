@@ -1,2 +1,0 @@
-# BCS
-bioterrorist chemical supplies
